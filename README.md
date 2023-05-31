@@ -26,8 +26,8 @@ No se pretendio sobrediseñar la aplicación, es decir que no se forzaron a impl
 - Springboot
 
 #### Herramientas adicionales
-- Podman o Docker en su defecto
-- Just (Opcional)
+- Podman (https://podman.io/) o Docker en su defecto
+- Just (Opcional) https://github.com/casey/just
 
 ## Levantar Servidor
 - Mediante IDE
