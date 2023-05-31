@@ -1,0 +1,3 @@
+# Get weather from api actual time
+GET http://localhost:8080/weather/get?lat=-24.85871401933706&lng=-65.4433560099838
+Accept: application/json

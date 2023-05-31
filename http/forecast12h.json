@@ -1,0 +1,194 @@
+[
+  {
+    "DateTime": "2023-05-30T15:00:00-03:00",
+    "EpochDateTime": 1685469600,
+    "WeatherIcon": 1,
+    "IconPhrase": "Soleado",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 21.6,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=15&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=15&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T16:00:00-03:00",
+    "EpochDateTime": 1685473200,
+    "WeatherIcon": 1,
+    "IconPhrase": "Soleado",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 22.6,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=16&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=16&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T17:00:00-03:00",
+    "EpochDateTime": 1685476800,
+    "WeatherIcon": 1,
+    "IconPhrase": "Soleado",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 21.3,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=17&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=17&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T18:00:00-03:00",
+    "EpochDateTime": 1685480400,
+    "WeatherIcon": 1,
+    "IconPhrase": "Soleado",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 19.3,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=18&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=18&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T19:00:00-03:00",
+    "EpochDateTime": 1685484000,
+    "WeatherIcon": 33,
+    "IconPhrase": "Despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 17.3,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=19&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=19&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T20:00:00-03:00",
+    "EpochDateTime": 1685487600,
+    "WeatherIcon": 33,
+    "IconPhrase": "Despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 15.4,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=20&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=20&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T21:00:00-03:00",
+    "EpochDateTime": 1685491200,
+    "WeatherIcon": 33,
+    "IconPhrase": "Despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 13.7,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=21&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=21&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T22:00:00-03:00",
+    "EpochDateTime": 1685494800,
+    "WeatherIcon": 33,
+    "IconPhrase": "Despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 12.4,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=22&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=22&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-30T23:00:00-03:00",
+    "EpochDateTime": 1685498400,
+    "WeatherIcon": 33,
+    "IconPhrase": "Despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 11.1,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=23&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=1&hbhhour=23&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-31T00:00:00-03:00",
+    "EpochDateTime": 1685502000,
+    "WeatherIcon": 33,
+    "IconPhrase": "Despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 10.3,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=2&hbhhour=0&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=2&hbhhour=0&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-31T01:00:00-03:00",
+    "EpochDateTime": 1685505600,
+    "WeatherIcon": 34,
+    "IconPhrase": "Mayormente despejado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 9.8,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=2&hbhhour=1&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=2&hbhhour=1&unit=c&lang=es-ar"
+  },
+  {
+    "DateTime": "2023-05-31T02:00:00-03:00",
+    "EpochDateTime": 1685509200,
+    "WeatherIcon": 35,
+    "IconPhrase": "Parcialmente nublado",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 9.4,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=2&hbhhour=2&unit=c&lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/las-palmas/10465/hourly-weather-forecast/10465?day=2&hbhhour=2&unit=c&lang=es-ar"
+  }
+]

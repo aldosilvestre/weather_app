@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "Key": "10465",
+  "Type": "City",
+  "Rank": 85,
+  "LocalizedName": "Las Palmas",
+  "EnglishName": "Las Palmas",
+  "PrimaryPostalCode": "",
+  "Region": {
+    "ID": "SAM",
+    "LocalizedName": "South America",
+    "EnglishName": "South America"
+  },
+  "Country": {
+    "ID": "AR",
+    "LocalizedName": "Argentina",
+    "EnglishName": "Argentina"
+  },
+  "AdministrativeArea": {
+    "ID": "A",
+    "LocalizedName": "Salta",
+    "EnglishName": "Salta",
+    "Level": 1,
+    "LocalizedType": "Province",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  "TimeZone": {
+    "Code": "ART",
+    "Name": "America/Argentina/Salta",
+    "GmtOffset": -3,
+    "IsDaylightSaving": false,
+    "NextOffsetChange": null
+  },
+  "GeoPosition": {
+    "Latitude": -24.901,
+    "Longitude": -65.448,
+    "Elevation": {
+      "Metric": {
+        "Value": 1116,
+        "Unit": "m",
+        "UnitType": 5
+      },
+      "Imperial": {
+        "Value": 3660,
+        "Unit": "ft",
+        "UnitType": 0
+      }
+    }
+  },
+  "IsAlias": false,
+  "SupplementalAdminAreas": [],
+  "DataSets": [
+    "AirQualityCurrentConditions",
+    "AirQualityForecasts",
+    "Alerts",
+    "FutureRadar",
+    "MinuteCast",
+    "Radar"
+  ]
+}
