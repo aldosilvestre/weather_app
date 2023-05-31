@@ -41,21 +41,27 @@ No se pretendio sobrediseñar la aplicación, es decir que no se forzaron a impl
 1. Clonamos el proyecto. No hace falta que sea en una carpeta especifica, lo que si debe mantener su estructura.
 2. Una vez dentro del proyecto a travez de la herramienta de docker que dispongamos sea el CLI o la aplicación de escritorio construir la imagen del docker.
 
-        `podman build -t user/java:appWeather .` >> Ejecutara el podman
+      > Ejecutara el podman
+
+        podman build -t user/java:appWeather . 
 
     ó
-
-        `docker build -t user/java:appWeather .` >> Nativo de docker
+      > Nativo de docker
+      
+        docker build -t user/java:appWeather . 
 
 ***Aclaración:*** *Esto bajara la imagen de docker con alpine linux junto con las dependencias que necesita para correr el proyecto*
 
 3. Ya terminado de construir el proyecto y ya ejecutado los test, procedemos a ponerlo en marcha junto con nuestra aplicación.
 
-        `docker run --name appWeather -d -p 8080:8080 user/java:appWeather` >> Corre el contenedor con podman
+      > Corre el contenedor con podman
+
+        podman run --name appWeather -d -p 8080:8080 user/java:appWeather
 
     ó
+      > Corre el contenedor con docker
 
-        `docker run --name appWeather -d -p 8080:8080 user/java:appWeather` >> Corre el contenedor con docker
+        docker run --name appWeather -d -p 8080:8080 user/java:appWeather
 
 4. La aplicación ya estará corriendo en segundo plano, en el puerto 8080 de nuestro host local.
 
